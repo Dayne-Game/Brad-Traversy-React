@@ -1,0 +1,31 @@
+.navbar {
+  height: 71px;
+  width: 100%;
+  background-color: #243b90;
+  line-height: 71px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.link-box > a {
+  text-decoration: none;
+  color: white;
+  padding: 27px 12px;
+}
+.link-box > a:hover,
+.active {
+  background-color: #fbca12;
+  color: black !important;
+}
+.link-box {
+  margin-left: 50px;
+}
+.logo {
+  height: 60px;
+  width: 60px;
+  float: left;
+  margin-top: 5px;
+}
+.SIGN-IN {
+  float: right;
+  padding: 0px 12px 0px 12px !important;
+}
